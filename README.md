@@ -7,3 +7,4 @@ I ZRemeshed. Maya is what I will be using to UV map. I also did some retopolgy i
 https://youtu.be/mOCvljQm3qA
 
 material video : https://youtu.be/yxZqFtoJy9Q
+![SubstanceRenderResized](https://github.com/user-attachments/assets/36b88996-41f3-4bc0-8c00-b335769d7824)
